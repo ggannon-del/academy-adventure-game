@@ -21,7 +21,7 @@
 
 - look -> shows the content of the room.
 
-- pproach <entity> -> to approach an entity
+- approach <entity> -> to approach an entity
 
 - leave -> to leave an entity
 
